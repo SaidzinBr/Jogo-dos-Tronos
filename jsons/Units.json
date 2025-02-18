@@ -13,7 +13,7 @@
 	"unitType": "Sword",
 	"uniqueTo": "Casa Said",
 	"movement": 4,
-	"strength": 25,
+	"strength": 10,
 	"cost": 50,
 	"promotions": ["Ignore terrain cost","[Jaguar] ability","Woodsman"],
 	"attackSound": "nonmetalhit"
@@ -30,4 +30,34 @@
             "Uncapturable", "Automation is a primary action"]
 	"attackSound": "nonmetalhit"
 },
+	{
+		"name": "Júlio Cesar",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 15,
+		"rangedStrength": 15,
+		"cost": 80,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"replaces": "Archer",
+		"uniqueTo": "Casa Menezes",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Dionatan",
+		"unitType": "Sword",
+		"uniqueTo": "Casa Menezes",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 20,
+		"cost": 100,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+		"hurryCostModifier": 5,
+		"attackSound": "metalhit"
+	},
 ]

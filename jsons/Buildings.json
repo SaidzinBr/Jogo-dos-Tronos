@@ -9,7 +9,6 @@
 		"uniques":
 		"hurryCostModifier": 35,
 		"maintenance": 5,
-		"percentStatBonus": {"Gold": 100},
 		"requiredTech": "Construção"
 	},
 	{
@@ -17,10 +16,9 @@
 		"uniqueTo": "Casa Dantas",
 		"replaces":"Barn"
 		"production": 2,
-		"food":20,
-		"happiness"5,
+		"food":15,
+		"Happiness"5,
 		"hurryCostModifier": 20,
 		"maintenance": 2,
-		"percentStatBonus": {"Food": 5},
 	},
 ]

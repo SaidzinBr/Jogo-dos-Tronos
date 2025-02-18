@@ -168,7 +168,7 @@
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
 		"uniqueName": "Estudar Sempre",
-		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [80]% faster", "[+3] Science]", "[+2 Science] from every [Great Improvement]"],
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [80]% faster","[+3 Science] from every specialist [in all cities]",  "[+3 Science] from every [Great Improvement]"],
 		"cities": ["Augusto Franco","Farolândia","Barra dos Coqueiros","São Conrado","Atalaia","Sippar","Coroa do Meio","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
@@ -184,5 +184,6 @@
 		"innerColor": [37, 43, 33],
 		"uniqueName": "Guerreiros de fé"
 		"uniques": ["[+70]% [Faith] from City-States", "May choose [2] additional belief(s) of any type when [founding] a religion", "[+1 Faith] [in all cities]"],
+		"cities": ["Curiós", "templo de Deus", "casa do senhor", "fim de mundo", "mosqueiro", "Orla por do Sol"]
 	}
 			]

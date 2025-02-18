@@ -45,7 +45,6 @@
 		"requiredTech": "Writing",
 		"uniques": ["Free Technology", "Gain a free [Library] [in this city]"],
 	},
-	},
 	{
 		"name": "Muralhas de Jhennfier",
 		"replaces": "Walls",

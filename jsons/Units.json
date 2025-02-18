@@ -2,32 +2,20 @@
 	{
 	"name": "Dani Said",
 	"unitType": "Civilian",
-	"UniqueTo":"Casa Said",
+	"UniqueTo": "Casa Said",
+	"strength": 8,
 	"movement": 5,
 	"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-	"cost": 20,
-	"promotions": ["Ignore terrain cost"],
+	"cost": 0,
 	},
 {
 	"name": "Bob",
 	"unitType": "Sword",
-	"UniqueTo":"Casa Said",
+	"UniqueTo": "Casa Said",
 	"movement": 15,
 	"strength": 15,
 	"cost": 0,
 	"promotions": ["Ignore terrain cost","[Jaguar] ability","Woodsman"],
 	"attackSound": "nonmetalhit"
-	},
-{
-	"name": "Legião de Amigos",
-	"unitType": "Archery",
-	"UniqueTo":"Casa Said",
-	"movement": 1,
-	"strength": 20,
-	"rangedStrength": 13,
-	"cost": 800,
-	"requiredTech": "Archery",
-	"attackSound": "arrow"
-	},
-	
+},
 ]

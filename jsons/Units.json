@@ -67,7 +67,6 @@
 		"movement": 2,
 		"strength": 44,
 		"cost": 95,
-		"requiredTech": "Mount",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "[-15]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 10,

@@ -2,13 +2,13 @@
 		{
 		"name": "condomínio",
 		"uniqueTo": "Casa Said",
-		"food": 4,
-		"production": 10,
-		"Happiness":10,
-		"science": 10,
+		"food": 2,
+		"production": 2,
+		"Happiness": 5,
+		"science": 3,
 		"cityStrength": 10,
-		"Culture":10,
-		"cost": 50
+		"Culture": 3,
+		"cost": 80
 		"maintenance": 5,
 		"requiredTech": "Construction",
 		"uniques":["Destroyed when the city is captured", "[+5 Science] per [1] population [in this city]", "[2] free [Worker] units appear"]
@@ -17,9 +17,9 @@
 		"name": "Sitio",
 		"uniqueTo": "Casa Dantas",
 		"production": 2,
-		"food":15,
+		"food":5,
 		"Happiness":2,
-		"Cost": 100,
+		"Cost": 40,
 		"maintenance": 5,
 		"uniques": ["[+10]% [Food] [in all cities]"],
 	},

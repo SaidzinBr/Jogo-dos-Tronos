@@ -15,7 +15,7 @@
 		"uniqueTo": "Casa Dantas",
 		"replaces":"farm"
 		"production": 2,
-		"uniques": ["[+10 Food]", "+2 production", +5 happiness],
+		"uniques": ["[+10 Food]", "+2 production", "+5 happiness"],
 		"hurryCostModifier": 20,
 		"maintenance": 5,
 		"percentStatBonus": {"food": 5},

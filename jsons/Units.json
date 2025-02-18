@@ -1,17 +1,33 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+	"name": "Dani Said",
+	"unitType": "Civilian",
+	"UniqueTo":"Casa Said",
+	"movement": 5,
+	"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+	"cost": 20,
+	"promotions": ["Ignore terrain cost"],
+	},
+{
+	"name": "Bob",
+	"unitType": "Sword",
+	"UniqueTo":"Casa Said",
+	"movement": 15,
+	"strength": 15,
+	"cost": 0,
+	"promotions": ["Ignore terrain cost","[Jaguar] ability","Woodsman"],
+	"attackSound": "nonmetalhit"
+	},
+{
+	"name": "Legião de Amigos",
+	"unitType": "Archery",
+	"UniqueTo":"Casa Said",
+	"movement": 1,
+	"strength": 20,
+	"rangedStrength": 13,
+	"cost": 800,
+	"requiredTech": "Archery",
+	"attackSound": "arrow"
+	},
+	
 ]

@@ -1,25 +1,23 @@
 [
-	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		{
+		"name": "condomínio",
+		"uniqueTo": "Casa Said",
+		"food": 4,
+		"production": 2,
+		"uniques": ["[+2 Food]", "+10 production", "+10 happiness","+8 cultura"],
+		"hurryCostModifier": 35,
+		"maintenance": 5,
+		"percentStatBonus": {"Money": 100},
+		"requiredTech": "construction"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		"name": "Sitio",
+		"uniqueTo": "Casa Dantas",
+		"replaces":"farm"
+		"production": 2,
+		"uniques": ["[+10 Food]", "+2 production", +5 happiness],
+		"hurryCostModifier": 20,
+		"maintenance": 5,
+		"percentStatBonus": {"food": 5},
+	},
 ]

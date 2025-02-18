@@ -60,39 +60,4 @@
 		"hurryCostModifier": 5,
 		"attackSound": "metalhit"
 	},
-		{
-		"name": "Missionários",
-		"unitType": "Sword",
-		"uniqueTo": "Casa Assunção",
-		"movement": 3,
-		"strength": 10,
-		"cost": 45,
-		"attackSound": "nonmetalhit"
-	},
-{
-		"name": "Poder Marinho",
-		"unitType": "Melee Water",
-		"uniqueTo":  "Casa Borges",
-		"movement": 6,
-		"strength": 15,
-		"cost": 16,
-		"requiredTech": "Sailing",
-		"uniques": ["[+50]% Strength <vs [Water] units>", "Cannot enter ocean tiles"]
-		"attackSound": "arrow"
-	},
-{
-		"name": "Cavalaria de Geovanna",
-		"unitType": "Mounted",
-		"uniqueTo": "Casa Silva",
-		"movement": 2,
-		"strength": 43,
-		"cost": 95,
-		"requiredTech": "Horseback Riding",
-		"requiredResource": "Horses",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
-		"hurryCostModifier": 10,
-		"attackSound": "horse"
-	}
 ]

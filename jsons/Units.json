@@ -61,19 +61,6 @@
 		"attackSound": "metalhit"
 	},
 		{
-		"name": "Cavalaria Geovanna",
-		"unitType": "Mounted",
-		"uniqueTo": "Casa Silva",
-		"movement": 2,
-		"strength": 44,
-		"cost": 95,
-		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "[-15]% Strength <vs cities> <when attacking>"],
-		"hurryCostModifier": 10,
-		"attackSound": "horse"
-		},
-	
-		{
 		"name": "Missionários",
 		"unitType": "Sword",
 		"uniqueTo": "Casa Assunção",

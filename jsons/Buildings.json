@@ -13,7 +13,7 @@
 	{
 		"name": "Sitio",
 		"uniqueTo": "Casa Dantas",
-		"replaces":"farm"
+		"replaces":"barn"
 		"production": 2,
 		"uniques": ["[+10 Food]", "+2 produção", "+5 felicidade"],
 		"hurryCostModifier": 20,

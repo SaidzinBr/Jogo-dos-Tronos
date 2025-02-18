@@ -69,7 +69,7 @@
 		"cost": 45,
 		"attackSound": "nonmetalhit"
 	},
-	{
+{
 		"name": "Poder Marinho",
 		"unitType": "Melee Water",
 		"uniqueTo":  "Casa Borges",
@@ -77,10 +77,10 @@
 		"strength": 15,
 		"cost": 16,
 		"requiredTech": "Sailing",
-		"uniques": ["[+50]% Strength <vs [Water] units>"]
+		"uniques": ["[+50]% Strength <vs [Water] units>", "Cannot enter ocean tiles"]
 		"attackSound": "arrow"
 	},
-	{
+{
 		"name": "Cavalaria de Geovanna",
 		"unitType": "Mounted",
 		"uniqueTo": "Casa Silva",
@@ -94,5 +94,5 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
 		"hurryCostModifier": 10,
 		"attackSound": "horse"
-	},
+	}
 ]

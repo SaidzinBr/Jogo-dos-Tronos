@@ -64,17 +64,14 @@
 		"name": "Cavalaria Geovanna",
 		"unitType": "Mounted",
 		"uniqueTo": "Casa Silva",
-		"replaces": "Horseman",
 		"movement": 2,
 		"strength": 44,
 		"cost": 95,
 		"requiredTech": "Horseback Riding",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
-		"promotions": ["Great Generals I", "Great Generals II"],
+		"promotions": ["Great Generals II"],
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "defensive terrain bônus", "[-15]% Strength <vs cities> <when attacking>"],
-		"hurryCostModifier": 30,
+		"uniques": ["Can move after attacking", "[-15]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 10,
 		"attackSound": "horse"
 		},
 	
@@ -82,12 +79,9 @@
 		"name": "Missionários",
 		"unitType": "Sword",
 		"uniqueTo": "Casa Assunção",
-		"replaces": "Warrior",
 		"movement": 3,
 		"strength": 10,
 		"cost": 45,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
 	{

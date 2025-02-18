@@ -28,7 +28,7 @@
 		"innerColor": [65,141,254],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Cultural Treasure",
-		"uniques": ["[+5 Culture] [in all cities] <before discovering [Steam Power]>", "[+3 Gold] from each Trade Route", "[-50]% City-State Influence degradation", "[3] Free Social Policies", "[+1 Gold, +2 Production] per [3] social policies adopted"],
+		"uniques": ["[+3 Culture] [in all cities] <before discovering [Steam Power]>", "[+3 Gold] from each Trade Route", "[-50]% City-State Influence degradation", "[2] Free Social Policies", "[+2 Gold, +4 Production] per [3] social policies adopted"],
 		"cities": ["Jequié","Caucaia","Ouro Verde","Mar de Aruana","Royal Palm","Felicidades","Fortaleza","Q'Vronens","Q'Aerlae",
 			"Q'Royal Palm","Q'Felicidades","Q'São Paulo","Q'Fortaleza","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",

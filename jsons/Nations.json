@@ -114,9 +114,9 @@
         "outerColor": [255, 252, 3],
 		"innerColor": [83, 0, 208],
 		"uniqueName": "Amor de familia",
-		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster", "[-25]% maintenance costs <for [Land] units>", "[+30]% Strength <vs [City-States]>", "[+1] Movement <for [Mounted] units>", "Starts with [Oligarchy] adopted"]
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [60]% faster", "[-45]% maintenance costs <for [Land] units>", "[+50]% Strength <vs [City-States]>", "[+2] Movement <for [Mounted] units>", "Starts with [Honor] adopted"]
 		"cities": ["Itanhaém","São Paulo","Santos","Caminho das indias","Santa fé do Sul","Mogi das cruzes","Zona Leste","Zona norte","Zona sul","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
 			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
-]
+			]

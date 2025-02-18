@@ -71,15 +71,28 @@
 	},
 	{
 		"name": "Poder Marinho",
-		"unitType": "Ranged Water",
-		"uniqueTo": "Casa Borges",
+		"unitType": "Melee Water",
+		"uniqueTo":  "Casa Borges",
 		"movement": 6,
-		"strength": 12,
-		"rangedStrength": 15,
+		"strength": 15,
 		"cost": 16,
 		"requiredTech": "Sailing",
 		"uniques": ["[+50]% Strength <vs [Water] units>"]
 		"attackSound": "arrow"
 	},
-	
+	{
+		"name": "Cavalaria de Geovanna",
+		"unitType": "Mounted",
+		"uniqueTo": "Casa Silva",
+		"movement": 2,
+		"strength": 43,
+		"cost": 95,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 10,
+		"attackSound": "horse"
+	},
 ]

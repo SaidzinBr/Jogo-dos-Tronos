@@ -83,5 +83,7 @@
 		"requiredBuilding": "Shrine",
 		"uniques": ["Doubles Gold given to enemy if city is captured"],
 		"requiredTech": "Philosophy"
+		"happiness": 2,
+		"gold" 2,
 	},
 ]

@@ -3,8 +3,10 @@
 		"name": "condomínio",
 		"uniqueTo": "Casa Said",
 		"food": 4,
-		"production": 2,
-		"uniques": ["[+2 Food]", "[+10 Produção]", "[+10 Felicidade]","[+8 Cultura]"],
+		"production": 10,
+		"Happiness":10,
+		"Cultura":8,
+		"uniques":
 		"hurryCostModifier": 35,
 		"maintenance": 5,
 		"percentStatBonus": {"Gold": 100},
@@ -15,9 +17,10 @@
 		"uniqueTo": "Casa Dantas",
 		"replaces":"Barn"
 		"production": 2,
-		"uniques": ["[+20 Food]", "[+2 Production]", "[+5 Happiness]"],
+		"food":20,
+		"happiness"5,
 		"hurryCostModifier": 20,
-		"maintenance": 5,
+		"maintenance": 2,
 		"percentStatBonus": {"Food": 5},
 	},
 ]

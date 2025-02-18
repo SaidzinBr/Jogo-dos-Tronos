@@ -17,7 +17,7 @@
 		"replaces":"Barn"
 		"production": 2,
 		"food":15,
-		"Happiness"5,
+		"Happiness":5,
 		"hurryCostModifier": 20,
 		"maintenance": 2,
 	},

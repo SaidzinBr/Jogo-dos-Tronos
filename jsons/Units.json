@@ -18,4 +18,16 @@
 	"promotions": ["Ignore terrain cost","[Jaguar] ability","Woodsman"],
 	"attackSound": "nonmetalhit"
 },
+	{
+	"name": "Banda voou",
+	"unitType": "Civilian Water",
+	"uniqueTo": "Casa Dantas",
+	"movement": 6,
+	"strength": 10,
+	"cost": 10,
+	"requiredTech": "Sailing",
+	"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
+            "Uncapturable", "Automation is a primary action"]
+	"attackSound": "nonmetalhit"
+},
 ]

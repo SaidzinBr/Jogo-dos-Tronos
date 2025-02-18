@@ -2,18 +2,18 @@
 	{
 	"name": "Dani Said",
 	"unitType": "Civilian",
-	"UniqueTo": "Casa Said",
+	"uniqueTo": "Casa Said",
 	"strength": 8,
-	"movement": 5,
+	"movement": 8,
 	"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 	"cost": 0,
 	},
 {
 	"name": "Bob",
 	"unitType": "Sword",
-	"UniqueTo": "Casa Said",
+	"uniqueTo": "Casa Said",
 	"movement": 15,
-	"strength": 15,
+	"strength": 20,
 	"cost": 0,
 	"promotions": ["Ignore terrain cost","[Jaguar] ability","Woodsman"],
 	"attackSound": "nonmetalhit"

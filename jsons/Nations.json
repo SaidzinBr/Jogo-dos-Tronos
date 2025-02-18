@@ -27,7 +27,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [65,141,254],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Cultural Treasure",
+		"uniqueName": "Tesouro Cultural",
 		"uniques": ["[+3 Culture] [in all cities] <before discovering [Steam Power]>", "[+3 Gold] from each Trade Route", "[-50]% City-State Influence degradation", "[2] Free Social Policies", "[+2 Gold, +4 Production] per [3] social policies adopted"],
 		"cities": ["Jequié","Caucaia","Ouro Verde","Mar de Aruana","Royal Palm","Felicidades","Fortaleza","Q'Vronens","Q'Aerlae",
 			"Q'Royal Palm","Q'Felicidades","Q'São Paulo","Q'Fortaleza","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
@@ -54,7 +54,7 @@
 		"outerColor": [43, 88, 46],
 		"innerColor": [146, 221, 10],
 		"favoredReligion": "Christianity",
-		"uniqueName": "God of luxury",
+		"uniqueName": "Deus da Luxuria",
 		"uniques": ["[+1 Gold] from each Trade Route", "[+1 Gold, +2 Production] per [3] population [in all cities]", "[+20]% Production when constructing [Culture] buildings [in all cities]", "[6]% Food is carried over after population increases [in all cities]", "[3] Happiness from each type of luxury resource" ],
 		"cities": ["Sitio","Robalo","Aruana","Santa Maria","Aracaju","Praias","Basra","Khurasan","Anjar","Fustat",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul",
@@ -83,7 +83,7 @@
         "innerColor": [244,232,54],
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "Lie Wars",
+		"uniqueName": "Guerras de Mentira",
 		"uniques": ["[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+15]% Strength <for [All] units> <during a Golden Age>"],
 		"cities": ["Mosqueiro","Santa Tereza","Malvina","Âncora","Barraca","Gordium","Bactra","Sardis","Ergili","Dariushkabir",
 			"Ghulaman","Zohak","Istakhr","Jinjan","Borazjan","Herat","Dakyanus","Bampur","Turengtepe","Rey","Shiraz",
@@ -92,5 +92,31 @@
 			"Artakaona","Aspabota","Autiyara","Bagastana","Baxtri","Darmasa","Daphnai","Drapsaka","Eion","Gandutava",
 			"Gaugamela","Harmozeia","Ekatompylos","Izata","Kampada","Kapisa","Karmana","Kounaxa","Kuganaka","Nautaka",
 			"Paishiyauvada","Patigrbana","Phrada"],
-		}
+		},
+		{
+		"name": "Casa Silva",
+		"leaderName": "Joana",
+		"adjective": ["Silvas"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Jennifer",
+
+        "startIntroPart1": "Heaven itself bends before your beauty, Empress Wu Zetian, ruler of eternal China! You lead one of the oldest and greatest civilization of humanity. In your time, China stood at the forefront of science and technology, bringing the world such contributions as gunpowder, the printing press, and the world of Confucius, and this, long before the rest of the world was mature enough to make the same discoveries!",
+        "startIntroPart2": "Great Queen, can you make China prevail again, using your divine intelligence and beauty? China stands for greatness, and all its enemies will be dazzled soon enough! Will your new empire shine through the ages of history?",
+
+        "declaringWar": "You won't ever be able to bother me again. Go meet Yama.",
+		"attacked": "Fool! I will disembowel you all!",
+		"defeated": "You have proven to be a cunning and competent adversary. I congratulate you on your victory.",
+		"introduction": "Greetings, I am Empress Wu Zetian. China desires peace and development. You leave us alone, we'll leave you alone.",
+		"neutralHello": "How are you today?",
+		"hateHello": "Oh. It's you?",
+		"tradeRequest": "My friend, do you think you can accept this request?",
+
+        "outerColor": [255, 252, 3],
+		"innerColor": [83, 0, 208],
+		"uniqueName": "Amor de familia",
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster", "[-25]% maintenance costs <for [Land] units>"], ["[+30]% Strength <vs [City-States]>", "[+1] Movement <for [Mounted] units>"], ["Starts with [Oligarchy] adopted"]]
+		"cities": ["Itanhaém","São Paulo","Santos","Caminho das indias","Santa fé do Sul","Mogi das cruzes","Zona Leste","Zona norte","Zona sul","Shandong",
+			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
+			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
+			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
 ]

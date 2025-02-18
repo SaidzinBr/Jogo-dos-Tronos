@@ -11,7 +11,7 @@
 		"cost": 50
 		"maintenance": 5,
 		"requiredTech": "Construction",
-		"uniques":["Destroyed when the city is captured", "[+5 Science] per [8] population [in this city]"]
+		"uniques":["Destroyed when the city is captured", "[+5 Science] per [1] population [in this city]", "[2] free [Worker] units appear"]
 	},
 	{
 		"name": "Sitio",
@@ -21,7 +21,6 @@
 		"Happiness":2,
 		"Cost": 100,
 		"maintenance": 5,
-		"uniques": ["[+10]% [Food] [in all cities]", "[+15]% Production when constructing [Archery] units [in this city]",
-            "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]"]
+		"uniques": ["[+10]% [Food] [in all cities]"],
 	},
 ]

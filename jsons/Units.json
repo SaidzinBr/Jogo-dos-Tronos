@@ -60,4 +60,48 @@
 		"hurryCostModifier": 5,
 		"attackSound": "metalhit"
 	},
+		{
+		"name": "Cavalaria Geovanna",
+		"unitType": "Mounted",
+		"uniqueTo": "Casa Silva",
+		"replaces": "Horseman",
+		"movement": 2,
+		"strength": 44,
+		"cost": 95,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"promotions": ["Great Generals I", "Great Generals II"],
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "defensive terrain bônus", "[+33]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 30,
+		"attackSound": "horse"
+		},
+		{
+		"name": "Missionários",
+		"unitType": "Sword",
+		"uniqueTo": "Casa Assunção",
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 10,
+		"cost": 45,
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Haka War Dance"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Poder Marinho",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Casa Borges",
+		"replaces": "Trireme",
+		"movement": 6,
+		"strength": 12,
+		"rangedStrength": 15,
+		"cost": 16,
+		"requiredTech": "Sailing",
+		"uniques": ["[+50]% Strength <vs [Water] units>"]
+		"attackSound": "arrow"
+	},
+	
 ]

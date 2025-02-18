@@ -4,20 +4,20 @@
 		"uniqueTo": "Casa Said",
 		"food": 4,
 		"production": 2,
-		"uniques": ["[+2 Food]", "[+10 production]", "[+10 happiness]","[+8 cultura]"],
+		"uniques": ["[+2 Food]", "[+10 Produção]", "[+10 Felicidade]","[+8 Cultura]"],
 		"hurryCostModifier": 35,
 		"maintenance": 5,
-		"percentStatBonus": {"Money": 100},
-		"requiredTech": "construção"
+		"percentStatBonus": {"Gold": 100},
+		"requiredTech": "Construção"
 	},
 	{
 		"name": "Sitio",
 		"uniqueTo": "Casa Dantas",
-		"replaces":"barn"
+		"replaces":"Barn"
 		"production": 2,
-		"uniques": ["[+20 Food]", "[+2 production]", "[+5 happiness]"],
+		"uniques": ["[+20 Food]", "[+2 Production]", "[+5 Happiness]"],
 		"hurryCostModifier": 20,
 		"maintenance": 5,
-		"percentStatBonus": {"food": 5},
+		"percentStatBonus": {"Food": 5},
 	},
 ]
